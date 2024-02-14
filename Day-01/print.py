@@ -10,10 +10,9 @@ print("Hello" + " Malin")
 #add space on right sides of Hello
 print("Hello " + "Malin")
 
-#single quote should be used before double quote
-
 #Example 
 print("Day 1 - String Manipulation")
+#single quote should be used before double quote
 print('String Concatenation is done with the "+" sign.')
 print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
