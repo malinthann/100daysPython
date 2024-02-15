@@ -5,15 +5,7 @@
 
 #Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
-# shorter version
-#Write your code below this line 👇
-print("Welcome to the tip calculator.")
-total_bill = input("What was the total bill? $ ")
-tip = input("What percentage tip would you like to give? 10, 12, or 15? ")
-split_bill = input("How many people to split the bill? ")
-print(f"Each person should pay: ${round((float(total_bill) / int(split_bill)) * (1 + (int(tip) / 100)), 2)}") 
-
-# longer version
+# My Code
 # Welcome message
 print("Welcome to the tip calculator.")
 total_bill = input("What was the total bill? $ ")
